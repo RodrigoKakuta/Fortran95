@@ -1,6 +1,6 @@
 # FORTRAN95 for DATA SCIENCE
-*The IDLE I used is PLATO*
-
+ - The IDLE I used is PLATO
+ - The data frame I used is this:
 Contents:
 
 0. The language
@@ -19,4 +19,4 @@ Contents:
   - derivates
   - partial derivates
   - integrals
-6. Exportation
+5. Exportation
